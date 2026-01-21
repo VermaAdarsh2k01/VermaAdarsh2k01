@@ -65,11 +65,15 @@ A full-stack Kanban-based project management system built for real-world team wo
 Implements role-based access control, optimistic UI updates for instant feedback, and Redis-backed caching to ensure fast, consistent interactions at scale.
 
 
-### 🔹 AI Support Centre Agent
+### 🔹 AI Support Centre Agent  
+🔗 [Live](https://ai-chat-bot-five-orcin.vercel.app/) · 🧑‍💻 [GitHub](https://github.com/VermaAdarsh2k01/your-repo)
+
 An AI-powered service agent built with Next.js and PostgreSQL that handles contextual conversations, validates inputs, and prevents wasted LLM calls using manual rate-limiting.  
 Includes text-to-speech for hands-free usage.
 
-### 🔹 What To Wear Today
+### 🔹 What To Wear Today  
+🔗 [Live](https://what-to-wear-delta.vercel.app) · 🧑‍💻 [GitHub](https://github.com/VermaAdarsh2k01/what-to-wear)
+
 A real-time outfit suggestion app powered by the Gemini API, focused on simplicity, speed, and daily utility.
 
 ---
