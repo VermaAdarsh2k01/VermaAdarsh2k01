@@ -1,5 +1,5 @@
 # Hi, I’m Adarsh 👋  
-**Full-Stack Developer | AI-Driven Product Builder | Ex-Founding Engineer @ Suprdash**
+**Full-Stack Developer | AI-Driven Product Builder | Former Founding Engineer @ Suprdash**
 
 I build performance-first, scalable web applications with a strong focus on real-world product impact.  
 My work sits at the intersection of **clean engineering, system design, and AI-powered features**.
@@ -10,11 +10,18 @@ I enjoy turning complex problems into simple, reliable systems and shipping prod
 
 ## 🚀 What I Do
 
-- Build full-stack products using **Next.js, React.js, and Node.js**
+- Build full-stack products using **Next.js, React, and Node.js**
 - Design **scalable APIs, databases, and caching layers**
 - Integrate **LLM / AI APIs** with proper validation, rate-limiting, and cost control
 - Optimise performance, UX, and developer experience
 - Think in terms of **systems, not just screens**
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VermaAdarsh2k01&layout=compact&hide_border=true&theme=transparent"
+    height="150"
+  />
+</p>
 
 ---
 
@@ -28,8 +35,8 @@ I enjoy turning complex problems into simple, reliable systems and shipping prod
 - Three.js / React Three Fiber
 
 ### Backend & Data
-- Node.js, Express, REST APIs, tRPC 
-- PostgreSQL, MySQL , MongoDb
+- Node.js, Express, REST APIs, tRPC
+- PostgreSQL, MySQL, MongoDB
 - Prisma ORM
 - Redis (caching, rate limiting)
 - Supabase
@@ -75,8 +82,10 @@ A real-time outfit suggestion app powered by the Gemini API, focused on simplici
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VermaAdarsh2k01&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VermaAdarsh2k01&layout=compact&theme=transparent" height="160" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VermaAdarsh2k01&show_icons=true&hide_border=true&theme=transparent"
+    height="160"
+  />
 </p>
 
 ---
