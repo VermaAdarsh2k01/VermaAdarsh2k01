@@ -1,5 +1,5 @@
 # Hi, I’m Adarsh 👋  
-**Full-Stack Developer | AI-Driven Product Builder | Former Founding Engineer @ Suprdash**
+**Full-Stack Developer | AI-Driven Product Builder | Ex-Founding Engineer @ Suprdash**
 
 I build performance-first, scalable web applications with a strong focus on real-world product impact.  
 My work sits at the intersection of **clean engineering, system design, and AI-powered features**.
@@ -59,8 +59,11 @@ I enjoy turning complex problems into simple, reliable systems and shipping prod
 ## 📌 Featured Projects
 
 ### 🔹 Project Management Tool  
-🔗 [Live][https://project-management-tool-umber-gamma.vercel.app/]
-A full-stack Kanban-style system with role-based access, optimistic UI updates, and Redis-backed caching for fast interactions.
+🔗 [Live](https://project-management-tool-umber-gamma.vercel.app) · 🧑‍💻 [GitHub](https://github.com/VermaAdarsh2k01/project-management-tool)
+
+A full-stack Kanban-based project management system built for real-world team workflows.  
+Implements role-based access control, optimistic UI updates for instant feedback, and Redis-backed caching to ensure fast, consistent interactions at scale.
+
 
 ### 🔹 AI Support Centre Agent
 An AI-powered service agent built with Next.js and PostgreSQL that handles contextual conversations, validates inputs, and prevents wasted LLM calls using manual rate-limiting.  
