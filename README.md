@@ -1,5 +1,5 @@
 # Hi, I’m Adarsh 👋  
-**Full-Stack Developer | AI-Driven Product Builder | Founding Engineer @ Suprdash**
+**Full-Stack Developer | AI-Driven Product Builder | Ex-Founding Engineer @ Suprdash**
 
 I build performance-first, scalable web applications with a strong focus on real-world product impact.  
 My work sits at the intersection of **clean engineering, system design, and AI-powered features**.
@@ -10,7 +10,7 @@ I enjoy turning complex problems into simple, reliable systems and shipping prod
 
 ## 🚀 What I Do
 
-- Build full-stack products using **Next.js, React, and modern backend architectures**
+- Build full-stack products using **Next.js, React.js, and Node.js**
 - Design **scalable APIs, databases, and caching layers**
 - Integrate **LLM / AI APIs** with proper validation, rate-limiting, and cost control
 - Optimise performance, UX, and developer experience
@@ -28,8 +28,8 @@ I enjoy turning complex problems into simple, reliable systems and shipping prod
 - Three.js / React Three Fiber
 
 ### Backend & Data
-- Node.js, Express, REST APIs, tRPC
-- PostgreSQL, MySQL
+- Node.js, Express, REST APIs, tRPC 
+- PostgreSQL, MySQL , MongoDb
 - Prisma ORM
 - Redis (caching, rate limiting)
 - Supabase
@@ -51,12 +51,12 @@ I enjoy turning complex problems into simple, reliable systems and shipping prod
 
 ## 📌 Featured Projects
 
+### 🔹 Project Management Tool
+A full-stack Kanban-style system with role-based access, optimistic UI updates, and Redis-backed caching for fast interactions.
+
 ### 🔹 AI Support Centre Agent
 An AI-powered service agent built with Next.js and PostgreSQL that handles contextual conversations, validates inputs, and prevents wasted LLM calls using manual rate-limiting.  
 Includes text-to-speech for hands-free usage.
-
-### 🔹 Project Management Tool
-A full-stack Kanban-style system with role-based access, optimistic UI updates, and Redis-backed caching for fast interactions.
 
 ### 🔹 What To Wear Today
 A real-time outfit suggestion app powered by the Gemini API, focused on simplicity, speed, and daily utility.
