@@ -66,7 +66,7 @@ Implements role-based access control, optimistic UI updates for instant feedback
 
 
 ### 🔹 AI Support Centre Agent  
-🔗 [Live](https://ai-chat-bot-five-orcin.vercel.app/) · 🧑‍💻 [GitHub](https://github.com/VermaAdarsh2k01/your-repo)
+🔗 [Live](https://ai-chat-bot-five-orcin.vercel.app/) · 🧑‍💻 [GitHub](https://github.com/VermaAdarsh2k01/Ai-chat-bot)
 
 An AI-powered service agent built with Next.js and PostgreSQL that handles contextual conversations, validates inputs, and prevents wasted LLM calls using manual rate-limiting.  
 Includes text-to-speech for hands-free usage.
@@ -84,17 +84,6 @@ A real-time outfit suggestion app powered by the Gemini API, focused on simplici
 - Advanced caching strategies
 - AI product reliability and cost optimisation
 - Building 0 → 1 products as a founding engineer
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=VermaAdarsh2k01&show_icons=true&hide_border=true&theme=transparent"
-    height="160"
-  />
-</p>
 
 ---
 
