@@ -59,7 +59,7 @@ I enjoy turning complex problems into simple, reliable systems and shipping prod
 ## 📌 Featured Projects
 
 ### 🔹 Project Management Tool  
-🔗 [Live]([https://project-management-tool-umber-gamma.vercel.app/])
+🔗 [Live][https://project-management-tool-umber-gamma.vercel.app/]
 A full-stack Kanban-style system with role-based access, optimistic UI updates, and Redis-backed caching for fast interactions.
 
 ### 🔹 AI Support Centre Agent
